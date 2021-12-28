@@ -1,0 +1,11 @@
+D:\Projects\Algorithms\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.exe
+D:\Projects\Algorithms\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.deps.json
+D:\Projects\Algorithms\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.runtimeconfig.json
+D:\Projects\Algorithms\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.runtimeconfig.dev.json
+D:\Projects\Algorithms\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.dll
+D:\Projects\Algorithms\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.pdb
+D:\Projects\Algorithms\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.csprojAssemblyReference.cache
+D:\Projects\Algorithms\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.AssemblyInfoInputs.cache
+D:\Projects\Algorithms\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.AssemblyInfo.cs
+D:\Projects\Algorithms\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.dll
+D:\Projects\Algorithms\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.pdb

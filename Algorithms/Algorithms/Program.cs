@@ -14,6 +14,9 @@ namespace Algorithms
             intervals[2] = new int[2] { 3, 5 };
             var res = Overlapping.Merge(intervals);
 
+            //2- Find Longest Substring
+            var longest1 = LongestSubstring.LengthOfLongestSubstring("abcabccdefg");
+            var longest2 = LongestSubstring.LengthOfLongestSubstring("abcabccdefg");
 
             Console.ReadLine();
         }
