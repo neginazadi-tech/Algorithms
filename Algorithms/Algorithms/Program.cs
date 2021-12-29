@@ -35,8 +35,10 @@ namespace Algorithms
                 new Adding2LinkedList.ListNode(9,
                 new Adding2LinkedList.ListNode(9, null))));
 
-            var funalLinkedList = Adding2LinkedList.AddTwoNumbers(l1, l2);
+            var finalLinkedList = Adding2LinkedList.AddTwoNumbers(l1, l2);
 
+            //4 - Finding longest Palindromic sub string
+            var longestStr = PalindromicSubstring.LongestPalindrome("cbbd");
             Console.ReadLine();
         }
     }
